@@ -1,6 +1,8 @@
 # kittycafe-sm
 Catppuccin theme for single monitor setups
 
+## Screenshot
+![Screenshot on single monitor](/screenshot.jpg)
 Created by Carlos Echenique.
 
 ##Picom Changes: (based on stable release of picom)
