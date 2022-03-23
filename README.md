@@ -5,6 +5,9 @@ Catppuccin theme for single monitor setups
 ![Screenshot on single monitor](/screenshot.jpg)
 Created by Carlos Echenique.
 
+## Font dependency
+- SauceCode Pro Nerd Font
+
 ## Picom Changes: (based on stable release of picom)
 - Rounded corners added
 - Blur enabled: dual_kawase
