@@ -6,6 +6,7 @@ Catppuccin theme for single monitor setups
 Created by Carlos Echenique.
 
 ## Font dependency
+- RobotoMono Nerd Font
 - SauceCode Pro Nerd Font
 
 ## Picom Changes: (based on stable release of picom)
